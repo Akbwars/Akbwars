@@ -1,14 +1,10 @@
-<p align = center >
-  <img src="https://cdn.discordapp.com/attachments/1136207003019137065/1136684222417997937/image_2023-08-03_233613852-removebg-preview.png">
-</p>
-
 <div>
-<img align="right" width="400" alt="0x29X" src="https://cdn.discordapp.com/attachments/1130663935759097926/1135831012790767676/image.png"/>
+<img align="right" width="400" alt="0x29X" src="https://cdn.discordapp.com/attachments/1192119956188430336/1216062836766277722/lights.jpg?ex=65ff05c5&is=65ec90c5&hm=98471857c32e57f671960fc10bdc51c2b8d32d698c4d91a8909102cedf1c92fe&"/>
 
 <h2> // about-me </h2>
 
 - 💗 12 | Philippines
-- 🅿 <a href="https://discord.gg/rbqgVyDz">DawgPound 艾</a>
+- 🅿 <a href="https://discord.gg/rbqgVyDz">Screwy 艾</a>
 
 <h2> // socials </h2>
 
@@ -46,6 +42,6 @@
 
 <div align="center">
 
-[![widget](https://invidget.switchblade.xyz/rbqgVyDz)](https://discord.gg/rbqgVyDz)
+[![widget](https://invidget.switchblade.xyz/QDVugcZkbk)](https://discord.gg/QDVugcZkbk)
 
 </div>
