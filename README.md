@@ -8,8 +8,8 @@
 
 <h2> // socials </h2>
 
-- <a href="https://youtube.com/@lovestruckZ">YouTube</a>
-- <a href="https://www.facebook.com/profile.php?id=61555414269597">Facebook</a>
+- <a href="https://youtube.com/@Akbarszn">YouTube</a>
+- <a href="https://www.facebook.com/profile.php?id=61557351480767">Facebook</a>
 - <a href="https://t.me/Thuggin0x">Telegram</a>
 
 <h2> // screwy </h2>
