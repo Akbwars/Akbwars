@@ -1,10 +1,10 @@
 <div>
-<img align="right" width="400" alt="Szn" src="https://cdn.discordapp.com/attachments/1192119956188430336/1216063624758693909/image.png?ex=65ff0681&is=65ec9181&hm=55618b575ea6f5541ab0a8cc217ff07fea3bbfd270ab8488079fad3c221be03e&"/>
+<img align="right" width="400" alt="Szn" src="https://cdn.discordapp.com/attachments/1192119956188430336/1255873003430875176/448720320_977127074195877_8481700291777395059_n.jpg?ex=667eb661&is=667d64e1&hm=97f971c6f2240ba13c6aa5df8295d028df6d4f9df0ecf63d3d815f8d82aea092&"/>
 
 <h2> // about-me </h2>
 
 - 💗 12 | Philippines
-- 🅿 <a href="https://discord.gg/rbqgVyDz">Screwy 艾</a>
+- 🅿 <a href="https://discord.gg/QDVugcZkbk">Screwy 艾</a>
 
 <h2> // socials </h2>
 
